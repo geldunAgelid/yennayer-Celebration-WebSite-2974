@@ -1,0 +1,31 @@
+* {
+	font-family: "Quicksand", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: 300;
+  	font-style: normal;
+}
+
+body{
+	background-color: #0B0B0B;
+	color: #fff;
+	font-family: "Quicksand" !important;
+}
+
+.card {
+	transition: all 0.3s ease;
+	background-size: 100% !important;
+}
+.card:hover{
+	background-size: 120% !important;
+	cursor: pointer;
+}
+.card-body div{
+	transition: all 0.3s ease;
+	background-size: 100% !important;
+	background-position: center;
+
+}
+
+.card-body div:hover{
+	background-size: 120% !important;	
+}
