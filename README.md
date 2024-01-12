@@ -1,2 +1,14 @@
-# yennayer-Celebration-WebSite-2974
-yennayer le nouvel an berbère.est une cèlèberation riche en tradition et en histiore. marquant le premier jour de l'annèe du calandreier agraire berbère , ce site a ètè crèè dans le but de prèserver et partager la richesse culturelle associèe a Yennayer 
+# Yennayer Celebration WebSite
+
+
+<h3>Bienvenue sur le repository du site de cèlèbration de Yennayer !</h3>
+
+<h5>Ce site a ètè crèè pour cèlèbrer et partager la richesse culturelle de <a href="#s">Yennayer</a>, le nouvel An bèrbère.Explorez l'histiore fascinante, 
+dècouvrez les traditions familiales, plonger dans des recettes authentiques et partagez vos propres expèriences dans notre espace interactif .</h5>
+
+## Contenu
+![image](cover.png)
+<ul>
+  <li>⚡ Histiore : Explorez l'histiore de Yennayer et son importance culturelle</li>
+  <li> Traditions : Dècou</li>
+</ul>
